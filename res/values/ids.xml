@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mainFrame" type="id">mainFrame</item>
+    <item name="gameFrame" type="id">gameFrame</item>
+</resources>
